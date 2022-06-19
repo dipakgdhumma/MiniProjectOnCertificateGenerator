@@ -15,8 +15,8 @@
       <span class="ml-3 text-xl">Microproject</span>
     </a>
     <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
-      <a class="mr-5 hover:text-gray-900" onclick="myFunction2()">About Us</a>
-      <a class="mr-5 hover:text-gray-900" onclick="myFunction1()">Contact us</a>
+      <button class="mr-5 hover:text-gray-900"  onclick="myFunction2()">About Us</button>
+      <button class="mr-5 hover:text-gray-900" onclick="myFunction1()">Contact us</button>
     </nav>
 <button class="bg-green-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" onclick="myFunction()">
   Start
