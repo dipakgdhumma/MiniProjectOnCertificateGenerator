@@ -11,9 +11,4 @@ Tecnologies Used :
 
 
 Users can input their names and that of the reason for certificate so as to generate a certicate without your name going into any database or storing in any server.
-{
-  "schemaVersion": 1,
-  "label": "hello",
-  "message": "sweet world",
-  "color": "orange"
-}
+https://img.shields.io/badge<LABEL>-<MESSAGE>-<COLOR>
