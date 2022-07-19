@@ -6,7 +6,6 @@
  [![Awesome](https://img.shields.io/badge/sem-3rd-important)](https://shields.io)
 
 
-
 This is a **MiniProject** to generate cetificate of mentiond reason . Users can input their names and reason so as to generate a certificate without your name going into any database or storing in any server
 
 
